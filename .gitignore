@@ -2,3 +2,4 @@ clouddist
 runtime/*
 .vscode/*
 data/*
+main
